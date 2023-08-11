@@ -14,7 +14,7 @@ This is the source code of Laravel pretty filename video tutorial available on y
 - [View complete video tutorial on youtube](https://www.youtube.com/watch?v=S0qK0HYcLjw).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
-- [Laravel Datatables plugin credit](https://github.com/salmanbe).
+- [Laravel Filename plugin credit](https://github.com/salmanbe/filename).
 
 ## Tutorial Technologies
 
